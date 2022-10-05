@@ -28,7 +28,7 @@
 <br>
 **4. There are two parts.
  <br> i. Inside of your < main > tag, add a < p > tag and put whatever text you want in it.**
-<br> -
+<br>
 
 ``` HTML
 import Head from 'next/head'
