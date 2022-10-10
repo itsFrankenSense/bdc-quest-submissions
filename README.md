@@ -17,11 +17,11 @@
 - [ ] Day 3 [Bringing Cadence to our DApp & Deploying our Contract](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%203.0/day3.md)
 
 ## Chapter 4
-- [ ] Day 1 [Connecting the Blockchain](https://github.com/itsFrankenSense/bdc-quest-submission/blob/main/chapter4.0/day1.md)
-- [ ] Day 2 [Running a Script](https://github.com/itsFrankenSense/bdc-quest-submission/blob/main/chapter4.0/day2.md)
-- [ ] Day 3 [Passing in Arguments to a Script](https://github.com/itsFrankenSense/bdc-quest-submission/blob/main/chapter4.0/day3.md)
-- [ ] Day 4 [Sending a Transaction](https://github.com/itsFrankenSense/bdc-quest-submission/blob/main/chapter4.0/day4.md)
+- [ ] Day 1 [Connecting the Blockchain](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%204.0/day1.md)
+- [ ] Day 2 [Running a Script](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%204.0/day2.md)
+- [ ] Day 3 [Passing in Arguments to a Script](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%204.0/day3.md)
+- [ ] Day 4 [Sending a Transaction](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%204.0/day4.md)
 
 ## Chapter 5
-- [ ] Day 1 [Finishing our DApp](https://github.com/itsFrankenSense/bdc-quest-submission/blob/main/chapter5.0/day1.md)
-- [ ] Day 2 [Deploying our DApp](https://github.com/itsFrankenSense/bdc-quest-submission/blob/main/chapter5.0/day2.md)
+- [ ] Day 1 [Finishing our DApp](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%205.0/day1.md)
+- [ ] Day 2 [Deploying our DApp](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%205.0/day2.md)
