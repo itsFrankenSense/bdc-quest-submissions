@@ -14,7 +14,7 @@
 ## Chapter 3
 - [x] Day 1 [Our First Smart Contract](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%203.0/day1.md)
 - [x] Day 2 [Transactions and Scripts](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%203.0/day2.md)
-- [ ] Day 3 [Bringing Cadence to our DApp & Deploying our Contract](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%203.0/day3.md)
+- [x] Day 3 [Bringing Cadence to our DApp & Deploying our Contract](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%203.0/day3.md)
 
 ## Chapter 4
 - [ ] Day 1 [Connecting the Blockchain](https://github.com/itsFrankenSense/bdc-quest-submissions/blob/main/chapter%204.0/day1.md)
