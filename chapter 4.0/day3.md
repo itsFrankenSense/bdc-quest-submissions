@@ -15,9 +15,6 @@ import * as fcl from "@onflow/fcl"
 export default function Home() {
   const [greeting, setGreeting] = useState('');
   const [newGreeting, setNewGreeting] = useState('');
-  function runTransaction() {
-    console.log(newGreeting)
-  }
 
   async function runSimpleTypes() {
     const simpleTypes = await fcl.query({
