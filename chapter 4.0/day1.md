@@ -11,7 +11,7 @@
 <br> - This allows us to connect to Flow TestNet, and load our wallets (from FCL Directory) 
 
 **4. What does our useEffect do?**
-<br> - `useEffect` runs whatever is set inside the `[]` when the page is refreshed. In our case the brackets are empty, and the code above is ran.
+<br> - `useEffect` runs whatever is set inside the `{}` when the page is refreshed. In our case the brackets are empty, and the code above is ran.
 ``` html
 useEffect(() => {
     fcl.currentUser.subscribe(setUser);
